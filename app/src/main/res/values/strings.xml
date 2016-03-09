@@ -4,4 +4,8 @@
     <string name="signin">Sign IN</string>
     <string name="signup">Sign UP</string>
 
+    <string name="id_card">หมายเลขบัตรประชาชน</string>
+    <string name="password">Password</string>
+
+
 </resources>
