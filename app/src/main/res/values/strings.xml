@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Bic Book</string>
+
+    <string name="signin">Sign IN</string>
+    <string name="signup">Sign UP</string>
+
 </resources>
